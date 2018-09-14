@@ -2,4 +2,6 @@
     <string name="app_name">Quiz App</string>
     <string name="quiz">Let\'s Quizzz</string>
     <string name="start">Tap to start!</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
 </resources>
